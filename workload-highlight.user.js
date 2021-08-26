@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.1
 // @author      -
-// @description 2021/8/26 上午9:43:09
+// @description 在填写工时的页面中，厂内厂外未申报为黄色，申报后变蓝色
 // ==/UserScript==
 
 (function () {
