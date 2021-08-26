@@ -3,7 +3,7 @@
 // @namespace   Work Scripts
 // @match       http://10.68.66.140:8880/demand/app/declare/workload-declare-detail.html
 // @grant       none
-// @version     1.1
+// @version     1.2
 // @author      -
 // @description 在填写工时的页面中，厂内厂外未申报为黄色，申报后变蓝色
 // ==/UserScript==
