@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        可忽略的alert
-// @namespace   Violentmonkey Scripts
+// @namespace   Debug Scripts
 // @match       *://*/*
 // @grant       none
 // @version     1.0
